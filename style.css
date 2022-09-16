@@ -77,7 +77,7 @@ section.menu{
     position: absolute;
     width: 0;
     height: 3px;
-    background-color: #2A7AE480;
+    background-color: grey;
     bottom: -5px;
     left: 50%;
     transform: translateX(-50%);
